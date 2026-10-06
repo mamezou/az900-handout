@@ -70,7 +70,7 @@ Azure ポータルから仮想マシンを作成します。
 | 仮想マシン名 | `vm-studentXX`（任意の名前） |
 | リージョン | Japan East |
 | イメージ | Ubuntu Server 24.04 LTS |
-| サイズ | Standard_B2as_v2（2 vCPU、4 GiB メモリ） |
+| サイズ | Standard_B2as_v2（2 vCPU、8 GiB メモリ） |
 | 認証 | パスワード（ユーザー名・パスワードを設定） |
 | パブリック受信ポート | なし（NSG で制御） |
 
