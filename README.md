@@ -1,3 +1,5 @@
+> **このリポジトリは 2026-11-18 に [training-demos の azure/az900/handout](https://github.com/mamezou/training-demos/tree/main/azure/az900/handout) へ移しました。** これからの更新は移動先で行います。このリポジトリはアーカイブして、更新しません。
+
 # AZ-900 Azure Fundamentals 受講者向け配布資料
 
 | ラボ | 資料 |
